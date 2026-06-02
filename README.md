@@ -51,7 +51,7 @@ Step 6:
 Add your YouTube demo:
 
 ```text
-https://youtube.com/your-demo-video
+Coming Soon...
 ```
 
 ---
