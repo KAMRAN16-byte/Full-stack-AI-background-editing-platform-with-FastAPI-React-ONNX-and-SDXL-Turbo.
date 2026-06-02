@@ -30,17 +30,17 @@
 
 ## 🔥 Live Workflow
 Step 1:
-![Demo GIF](https://i.ibb.co/BHsV6m75/Sequence-01.gif)
+![Demo GIF](gifs/Sequence-01.gif)
 Step 2:
-![Demo GIF](https://i.ibb.co/4nYhX9tb/Sequence-02.gif)
+![Demo GIF](gifs/Sequence-02.gif)
 Step 3:
-![Demo GIF](https://i.ibb.co/RkwphnG3/Sequence-03.gif)
+![Demo GIF](gifs/Sequence-03.gif)
 Step 4:
-![Demo GIF](https://i.ibb.co/yB7gGTc7/Sequence-04.gif)
+![Demo GIF](gifs/Sequence-04.gif)
 Step 5:
-![Demo GIF](https://i.ibb.co/RGyp40Zf/Sequence-05-new.gif)
+![Demo GIF](gifs/Sequence-05.gif)
 Step 6:
-![Demo GIF](https://i.ibb.co/nM6dBgb1/Sequence-06.gif)
+![Demo GIF](gifs/Sequence-06.gif)
 
 
 
