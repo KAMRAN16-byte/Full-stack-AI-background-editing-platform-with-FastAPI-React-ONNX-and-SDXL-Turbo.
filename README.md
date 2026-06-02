@@ -30,7 +30,10 @@
 
 ## 🔥 Live Workflow
 Step 1:
-![Demo GIF](https://i.ibb.co/BHsV6m75/Sequence-01.gif)
+<p align="center">
+  <img src="[https://your-gif-link.gif](https://i.ibb.co/BHsV6m75/Sequence-01.gif)" width="900">
+</p>
+![Demo GIF]()
 Step 2:
 ![Demo GIF](https://i.ibb.co/4nYhX9tb/Sequence-02.gif)
 Step 3:
