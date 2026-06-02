@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+onnxruntime-gpu
+numpy
+pillow
+opencv-python
+orjson
+uvloop
+httptools
+loguru
+python-dotenv
+diffusers
+transformers
+accelerate
+safetensors

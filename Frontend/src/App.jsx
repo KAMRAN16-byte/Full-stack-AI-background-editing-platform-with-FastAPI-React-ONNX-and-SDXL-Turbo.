@@ -1,0 +1,30 @@
+import { AppRouting } from '@/routing/app-routing';
+import { ThemeProvider } from 'next-themes';
+import { HelmetProvider } from 'react-helmet-async';
+import { BrowserRouter } from 'react-router-dom';
+import { LoadingBarContainer } from 'react-top-loading-bar';
+import { Toaster } from '@/components/ui/sonner';
+import { Layout32 } from './components/layouts/layout-32';
+
+const { BASE_URL } = import.meta.env;
+export function App() {
+  return (
+    <ThemeProvider
+      attribute="class"
+      defaultTheme="dark"
+      storageKey="vite-theme"
+      enableSystem
+      disableTransitionOnChange
+      enableColorScheme
+    >
+      <HelmetProvider>
+        <LoadingBarContainer>
+          <BrowserRouter basename={BASE_URL}>
+            <Toaster />
+            <Layout32 />
+          </BrowserRouter>
+        </LoadingBarContainer>
+      </HelmetProvider>
+    </ThemeProvider>
+  );
+}
